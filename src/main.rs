@@ -13,5 +13,4 @@ pub fn panic(_infor: &PanicInfo) -> ! {
 #[no_mangle]
 pub extern "C" fn _stat() -> ! {
     loop {}
-
 }
