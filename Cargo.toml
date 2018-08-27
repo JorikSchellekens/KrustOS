@@ -1,0 +1,10 @@
+[package]
+name = "krust"
+version = "0.1.0"
+authors = ["Jorik Schellekens <JorikSch@gmail.com>"]
+
+[dependencies]
+
+[profile.dev]
+
+[profile.release]
